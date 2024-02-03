@@ -13,4 +13,4 @@ first we have imported the csv file and then split the dataset of both training 
  Test set:
 ![image](https://github.com/Suneel-Kumar-ucm/Assignment4/assets/156639138/5df46b2e-551d-4994-a06f-c4fe5791651c)
  Mean squared error:
-![image](https://github.com/Suneel-Kumar-ucm/Assignment4/assets/156639138/21ec0683-864f-440d-85ec-277f51d5114b)
+
